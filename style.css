@@ -14,6 +14,15 @@ body {
     margin-top: 20px;
     animation: slideInDown 1.5s ease-out;
 }
+.header h1, .header h2 {
+    margin: 10px 0;
+}
+.header h1 {
+    color: #0066cc;
+}
+.header h2 {
+    color: #333;
+}
 .header img {
     max-width: 100px;
     height: auto;
